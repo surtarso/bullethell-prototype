@@ -45,12 +45,23 @@ Prepare for epic boss battles at the end of each world, where your skills will b
 
 ## Screenshots
 
-![Menu Screen](menu.png)
+<img src="menu.png" alt="Menu Screen" width="400"/>
 *Dodge bullets, collide with enemies, and seize the power-ups!*
 
 ## Download
 
 A compiled version of the game is available on [itch.io](https://surtarso.itch.io/bullet-hell-prototype). Get ready to embark on your bullet hell journey and experience the excitement firsthand!
+
+## Installation
+
+1. Clone this repository using the following command:
+   ```
+   git clone https://github.com/surtarso/bullethell-prototype.git
+   ```
+
+2. Open Godot 3 and import the project by selecting the project.godot file.
+
+3. Run the game from Godot and embark on an adventure!
 
 ## Contributing
 
