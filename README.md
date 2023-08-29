@@ -1,6 +1,4 @@
-# Bullet Hell Prototype - A Bullet Hell Experience Like No Other
-
-![Game Banner](game_banner.png)
+# Bullet Hell Prototype
 
 Dive into the chaotic world of **Bullet Hell Prototype**, an exhilarating top-down shooter developed in Godot 3. With the motto "A bullet hell game where shooting bullets matter," this game offers a unique twist on the classic bullet hell genre. Engage in intense battles, shoot down enemy projectiles, and harness the power of collisions to enhance your firepower. Get ready to experience a fast-paced alien blend of arcade favorites like 1942!
 
